@@ -1,6 +1,6 @@
 import { Pop } from "./Pop.js"
 
-const APP_NAME = "gregslist_2"
+const APP_NAME = "winter23_gregslist_async"
 
 export function saveState(key, value) {
   try {
